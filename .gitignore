@@ -2,6 +2,7 @@
 .env
 .env.*
 config/secrets.php
+config/hubspot.php
 
 # Logs
 logs/*.log
