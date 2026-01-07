@@ -1,0 +1,15 @@
+# Environment / secrets
+.env
+.env.*
+config/secrets.php
+
+# Logs
+logs/*.log
+*.log
+
+# Vendor (if installed via composer on server)
+vendor/
+
+# OS / editor
+.DS_Store
+.vscode/
