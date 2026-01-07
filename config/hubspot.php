@@ -4,7 +4,7 @@ return [
 
   // Private App token (NOT API key)
 
-  // 'access_token' => 'pat-ap1-b142e2e9-97c6-4bf4-9a90-7c4c47de8ef4',
+  'access_token' => 'pat-ap1-b142e2e9-97c6-4bf4-9a90-7c4c47de8ef4',
 
 
 
